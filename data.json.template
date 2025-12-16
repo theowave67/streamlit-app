@@ -12,8 +12,5 @@
   "CFPORT": 443,
   "NAME": "",
   "AUTH_ACCESS": "",
-  "NEZHA_SERVER": "",
-  "NEZHA_PORT": "",
-  "NEZHA_KEY": "",
   "DDDEBUG": false
 }
