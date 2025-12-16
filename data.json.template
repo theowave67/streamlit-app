@@ -1,0 +1,19 @@
+{
+  "UPLOAD_URL": "",
+  "PROJECT_URL": "",
+  "AUTO_ACCESS": false,
+  "FILE_PATH": "/tmp/.cache",
+  "SUB_PATH": "mmm",
+  "UUID": "1f6f5a40-80d0-4dbf-974d-4d53ff18d639",
+  "ARGO_DOMAIN": "",
+  "ARGO_AUTH": "",
+  "ARGO_PORT": 8001,
+  "CFIP": "194.53.53.7",
+  "CFPORT": 443,
+  "NAME": "",
+  "AUTH_ACCESS": "",
+  "NEZHA_SERVER": "",
+  "NEZHA_PORT": "",
+  "NEZHA_KEY": "",
+  "DDDEBUG": false
+}
